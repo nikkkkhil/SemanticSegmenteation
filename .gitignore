@@ -1,0 +1,16 @@
+*.pyc
+*~
+*.egg-info
+tiles/
+labels/
+*.eggs
+MANIFEST
+.DS_Store
+.coverage
+.cache
+data
+/integration*
+.idea/
+.ipynb_checkpoints/
+trained_models_out/
+predictions/

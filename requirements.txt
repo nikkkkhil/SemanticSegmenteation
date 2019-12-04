@@ -1,0 +1,14 @@
+Cython
+tensorflow==1.12.2
+keras==2.2.1
+h5py
+matplotlib
+pandas
+pylint
+scikit-image
+scikit-learn
+scipy
+seaborn
+Shapely
+tqdm
+opencv-python
